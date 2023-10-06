@@ -49,6 +49,27 @@ ${data.installation}
 
 ${data.usage}
 
+## License
+
+## Contributing
+
+${data.contributing}
+
+## Tests
+
+to run tests, run the following command 
+
+\`\`\`
+${data.test}
+\`\`\`
+
+### questions
+
+If you have any questions about teh repor, open an issue or contact me via email at ${data.email}
+
+You can findmore of my work at [${data.github}](https://github.com/${data.github}).
+
+
 `;
 }
 
