@@ -1,9 +1,9 @@
-# Professional Readme Generator
+# Professional Readme Generator 
   ![Github license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ### Description 
 
-Auto generate Readme files
+Generate readme with node 
 
 ### Table of contents
 
@@ -31,13 +31,15 @@ npm i
 
 ## Usage
 
-They should have Node v 16 or above installed
+The user should have v 16 or above of Node installed
 
 ## License
 
+This project is licensed under MIT.
+
 ## Contributing
 
-Users can fork to contribute
+users can fork to contribute
 
 ## Tests
 

@@ -51,6 +51,8 @@ ${data.usage}
 
 ## License
 
+This project is licensed under ${data.license}.
+
 ## Contributing
 
 ${data.contributing}
