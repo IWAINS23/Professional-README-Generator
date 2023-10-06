@@ -1,9 +1,9 @@
-# Professional Readme Generator 
+# Professional Readme generator
   ![Github license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ### Description 
 
-Generate readme with node 
+Readme generator, created using js and Node
 
 ### Table of contents
 
@@ -26,12 +26,12 @@ Generate readme with node
 To install neccessary dependacies, run the following command
 
 ```
-npm i
+npi i
 ```
 
 ## Usage
 
-The user should have v 16 or above of Node installed
+The user should have v16 or above of node installed to run this project
 
 ## License
 
@@ -39,7 +39,7 @@ This project is licensed under MIT.
 
 ## Contributing
 
-users can fork to contribute
+The user can fork to contribute to the repo
 
 ## Tests
 
@@ -51,8 +51,8 @@ npm test
 
 ### questions
 
-If you have any questions about teh repor, open an issue or contact me via email at ishmam.a.wains@gmail.com
+If you have any questions about the repor, open an issue or contact me via email at ishmam.a.wains@gmail.com
 
-You can findmore of my work at [IWAINS23](https://github.com/IWAINS23).
+You can find more of my work at [IWAINS23](https://github.com/IWAINS23).
 
 

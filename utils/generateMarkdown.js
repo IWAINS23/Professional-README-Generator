@@ -67,9 +67,9 @@ ${data.test}
 
 ### questions
 
-If you have any questions about teh repor, open an issue or contact me via email at ${data.email}
+If you have any questions about the repor, open an issue or contact me via email at ${data.email}
 
-You can findmore of my work at [${data.github}](https://github.com/${data.github}).
+You can find more of my work at [${data.github}](https://github.com/${data.github}).
 
 
 `;
