@@ -1,7 +1,7 @@
 // function to generate markdown for README
 const renderLicenseBadge = (license) => {
   if (license !== 'None') {
-  return `![Github license]{https://img.sheilds.io/badges/license-${license}-blue.svg)`
+  return `![Github license](https://img.shields.io/badge/License-${license}-blue.svg)`
 }
 return ''
 }

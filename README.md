@@ -1,9 +1,9 @@
-# Readme Generator
-  ![Github license]{https://img.sheilds.io/badges/license-GPL-blue.svg)
+# t
+  ![Github license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ### Description 
 
-undefined
+t
 
 ### Table of contents
 
@@ -26,12 +26,10 @@ undefined
 To install neccessary dependacies, run the following command
 
 ```
-npm i
+t
 ```
 
 ## Usage
 
-They must have node installed
-
-
+t
 

@@ -23,7 +23,7 @@ const questions = [
 },
 {
     type: 'input',  
-    name: 'decription',
+    name: 'description',
     message:'Write a short description of your project',
 },
 {
@@ -65,6 +65,7 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
  inquirer.prompt(questions).then((response) => {
+    console.log(`Generate README...`)
     writeToFile('README.md', generateMarkdown({...response}));
  }
  )
